@@ -1,1 +1,1 @@
-[text] instgram.com/t.j._kehoe
+[text](instagram.com/t.j._kehoe)
